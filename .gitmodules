@@ -1,0 +1,6 @@
+[submodule "Projects/EMS"]
+	path = Projects/EMS
+	url = https://github.com/bfisher26/EMS.git
+[submodule "Projects/biteMe"]
+	path = Projects/biteMe
+	url = https://github.com/befish26/biteMe.git
